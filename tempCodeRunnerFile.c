@@ -4,7 +4,6 @@
 #include "bacanilai.h"
 #include "hitungIP.h"
 #include "tampilIP.h"
-#include "konversihuruf.h"
 
 int main(){
     char nilaiHuruf[6][3];

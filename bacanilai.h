@@ -1,6 +1,6 @@
 #ifndef BACANILAI_H
 #define BACANILAI_H
 
-void membacaNilai(char nilai[8][3]);
+void bacaNilai(char nilaiHuruf[6][3]);
 
 #endif

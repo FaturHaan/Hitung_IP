@@ -1,3 +1,0 @@
-hitungIP(int nilai[]){
-    
-}
